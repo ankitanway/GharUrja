@@ -1,0 +1,13 @@
+---
+description: Installer listing rules
+alwaysApply: false
+---
+
+# Installer Verification Rules
+
+- Only show trusted installers.
+- Prefer manually reviewed installers.
+- Do not auto-match users.
+- Do not present vendors as government-approved unless verified.
+- Remove installers with repeated complaints.
+- Prioritize homeowner trust over listing volume.
