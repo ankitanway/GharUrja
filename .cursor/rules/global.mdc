@@ -1,0 +1,107 @@
+---
+description: Global development rules for GharUrja
+alwaysApply: true
+---
+
+# GharUrja Global Rules
+
+You are building GharUrja.
+
+Prioritize:
+
+1. Trust.
+2. Simplicity.
+3. Performance.
+4. Revenue generation.
+
+---
+
+## Architecture Rules
+
+- Use Next.js App Router.
+- Use TypeScript.
+- Prefer server components when appropriate.
+- Avoid unnecessary client-side JavaScript.
+- Prefer static generation for SEO pages.
+
+---
+
+## Coding Rules
+
+- Write clean, production-ready code.
+- Favor readability over cleverness.
+- Keep functions small.
+- Separate business logic from UI logic.
+- Avoid duplicate logic.
+- Use descriptive naming.
+
+---
+
+## Product Rules
+
+Do NOT build:
+
+- User authentication.
+- Installer dashboards.
+- CRM systems.
+- Payment processing.
+- Overengineered admin systems.
+
+Build ONLY features that support:
+
+- SEO.
+- AdSense revenue.
+- Lead generation.
+- User trust.
+
+---
+
+## Calculator Rules
+
+- Display assumptions clearly.
+- Use conservative estimates.
+- Never present estimates as guarantees.
+- Keep formulas centralized.
+- Avoid hardcoded subsidy values.
+
+---
+
+## SEO Rules
+
+- Prioritize long-tail keywords.
+- Prioritize state-specific pages.
+- Use internal linking.
+- Avoid keyword stuffing.
+- Prefer helpful content over generic content.
+
+---
+
+## UX Rules
+
+- Design mobile-first.
+- Keep forms short.
+- Avoid unnecessary animations.
+- Optimize for clarity.
+- Use strong calls-to-action.
+
+---
+
+## Performance Rules
+
+- Optimize images.
+- Minimize JavaScript bundles.
+- Avoid unnecessary dependencies.
+- Prefer static rendering when possible.
+
+---
+
+## Business Rules
+
+Every feature must support one or more of:
+
+- Traffic.
+- Trust.
+- Ad revenue.
+- Qualified leads.
+
+If not, defer the feature.
