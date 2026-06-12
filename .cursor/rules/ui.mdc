@@ -1,0 +1,20 @@
+---
+description: UI rules for GharUrja
+alwaysApply: false
+---
+
+# UI Rules
+
+- Mobile-first design.
+- Clean layouts.
+- Clear hierarchy.
+- Simple language.
+- Strong trust signals.
+- Fast loading.
+
+Avoid:
+
+- Excessive animations.
+- Cluttered interfaces.
+- Dark patterns.
+- Aggressive popups.
