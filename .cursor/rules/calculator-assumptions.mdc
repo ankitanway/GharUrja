@@ -1,0 +1,13 @@
+---
+description: Calculator assumptions
+alwaysApply: false
+---
+
+# Calculator Rules
+
+- Use conservative assumptions.
+- Show estimation disclaimers.
+- Keep assumptions editable.
+- Never hardcode government subsidy values.
+- Explain calculations simply.
+- Present outputs as estimates, not guarantees.
